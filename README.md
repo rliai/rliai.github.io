@@ -61,7 +61,7 @@
 | **Team Members** | Chang Liu, Shawn Kang, Shana Joseph, Yang-che Teng |
 | **My Role**      | Programmer                                         |
 
-[![Cochi the Roachi](https://i.ytimg.com/vi/pXM8Up3RCB0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAp2uRAfl7RCAqkoSc7yEdLJrdvVA =277x173)](https://www.youtube.com/watch?time_continue=1&v=pXM8Up3RCB0 "Cochi the Roachi")
+[![Cochi the Roachi](https://i.ytimg.com/vi/pXM8Up3RCB0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAp2uRAfl7RCAqkoSc7yEdLJrdvVA)](https://www.youtube.com/watch?time_continue=1&v=pXM8Up3RCB0 "Cochi the Roachi")
 
 
 
